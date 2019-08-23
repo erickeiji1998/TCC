@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: aquamarine
+        }
+        h1{
+            font:normal 50pt Courier  
+        }
+        
+    </style>
+</head>
+
+        <script>
+
+                function login() {
+
+                    var user = document.getElementById('usuario').value;
+                    var pass = document.getElementById("senha").value;
+
+                    document.getElementById("formUser").innerHTML = user;
+                    document.getElementById("formPass").innerHTML = pass;
+                }
+                
+        </script>
+
+<body>
+
+    <h1>
+        BLINDCOMM
+    </h1>
+
+        <form>
+            <p id="formUser"></p>
+            <p id="formPass"></p>
+
+            <input id = 'usuario' type="text" /> 
+            <input id = senha type="text" />
+
+            <button type="button" onclick = "login()">Entrar</button>
+        </form>
+
+</body>
+</html>
