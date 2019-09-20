@@ -24,12 +24,14 @@ function login() {
     if (user == nome && pass == chave){                 
         
         res.innerHTML = `Você entrou com sucesso!`;
+        document.getElementById('entrar').innerText= 'logado';
         document.getElementById("hora").innerHTML = log;                      
           
     }
     else{
 
         res.innerHTML = `Usuário incorreto`;
+        document.getElementById('entrar').innerText= 'Entrar';
         document.getElementById("hora").innerHTML = log;
                              
     }
@@ -43,3 +45,12 @@ if (i < 10) {
 }
 return i;
 }
+
+
+function openNav() {
+    document.getElementById("opt").style.width = "250px";
+  }
+  
+  function closeNav() {
+    document.getElementById("opt").style.width = "0";
+  }
