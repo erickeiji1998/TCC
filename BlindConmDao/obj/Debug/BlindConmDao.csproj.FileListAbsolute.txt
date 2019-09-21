@@ -1,0 +1,11 @@
+C:\Users\leona\source\repos\BlindConm\BlindConmDao\obj\Debug\BlindConmDao.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\BlindConm\BlindConmDao\obj\Debug\BlindConmDao.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\BlindConm\BlindConmDao\bin\Debug\BlindConmDao.dll
+C:\Users\leona\source\repos\BlindConm\BlindConmDao\bin\Debug\BlindConmDao.pdb
+C:\Users\leona\source\repos\BlindConm\BlindConmDao\bin\Debug\BlindConmEntity.dll
+C:\Users\leona\source\repos\BlindConm\BlindConmDao\bin\Debug\Dapper.dll
+C:\Users\leona\source\repos\BlindConm\BlindConmDao\bin\Debug\BlindConmEntity.pdb
+C:\Users\leona\source\repos\BlindConm\BlindConmDao\bin\Debug\Dapper.xml
+C:\Users\leona\source\repos\BlindConm\BlindConmDao\obj\Debug\BlindConmDao.csproj.CopyComplete
+C:\Users\leona\source\repos\BlindConm\BlindConmDao\obj\Debug\BlindConmDao.dll
+C:\Users\leona\source\repos\BlindConm\BlindConmDao\obj\Debug\BlindConmDao.pdb

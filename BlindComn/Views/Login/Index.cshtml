@@ -1,0 +1,29 @@
+﻿@model BlindComn.Models.LoginModel
+@{
+    Layout = null;
+}
+
+<link href="~/Content/css" rel="stylesheet" />
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+</head>
+<body>
+    <div class="login">
+        <div class="box">
+            @using (Html.BeginForm("EfetuarLogin", "Login", FormMethod.Post))
+            {
+                <h1>Login</h1>
+                @Html.TextBoxFor(m => m.Usuario.Racf, new {@placeholder = "Racf" });
+                @*<input type="text" placeholder="Username" id="txtUsuario" />*@
+                @Html.TextBoxFor(m => m.Usuario.Senha, new {@placeholder = "Senha:" });
+                @*<input type="password" placeholder="Password" id"txtSenha" />*@
+                <button id="btnLogin" type="submit" class="btn">Login</button>
+
+            }
+
+        </div>
+    </div>
+</body>
+</html>

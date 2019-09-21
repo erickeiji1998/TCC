@@ -1,0 +1,13 @@
+C:\Users\leona\source\repos\BlindConm\BlindComnBusiness\bin\Debug\BlindComnBusiness.dll
+C:\Users\leona\source\repos\BlindConm\BlindComnBusiness\bin\Debug\BlindComnBusiness.pdb
+C:\Users\leona\source\repos\BlindConm\BlindComnBusiness\obj\Debug\BlindComnBusiness.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\BlindConm\BlindComnBusiness\obj\Debug\BlindComnBusiness.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\BlindConm\BlindComnBusiness\obj\Debug\BlindComnBusiness.dll
+C:\Users\leona\source\repos\BlindConm\BlindComnBusiness\obj\Debug\BlindComnBusiness.pdb
+C:\Users\leona\source\repos\BlindConm\BlindComnBusiness\bin\Debug\BlindConmDao.dll
+C:\Users\leona\source\repos\BlindConm\BlindComnBusiness\bin\Debug\BlindConmEntity.dll
+C:\Users\leona\source\repos\BlindConm\BlindComnBusiness\bin\Debug\Dapper.dll
+C:\Users\leona\source\repos\BlindConm\BlindComnBusiness\bin\Debug\BlindConmDao.pdb
+C:\Users\leona\source\repos\BlindConm\BlindComnBusiness\bin\Debug\BlindConmEntity.pdb
+C:\Users\leona\source\repos\BlindConm\BlindComnBusiness\bin\Debug\Dapper.xml
+C:\Users\leona\source\repos\BlindConm\BlindComnBusiness\obj\Debug\BlindComnBusiness.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\leona\source\repos\BlindConm\BlindConmEntity\bin\Debug\BlindConmEntity.dll
+C:\Users\leona\source\repos\BlindConm\BlindConmEntity\bin\Debug\BlindConmEntity.pdb
+C:\Users\leona\source\repos\BlindConm\BlindConmEntity\obj\Debug\BlindConmEntity.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\BlindConm\BlindConmEntity\obj\Debug\BlindConmEntity.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\BlindConm\BlindConmEntity\obj\Debug\BlindConmEntity.dll
+C:\Users\leona\source\repos\BlindConm\BlindConmEntity\obj\Debug\BlindConmEntity.pdb
