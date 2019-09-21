@@ -129,16 +129,27 @@ input:checked ~ label .hamb::after{
 
 
 input:checked ~ .menu{
-    height: 100%; 
     width: 0%; /*a medida muda quando Js é executado*/
-    position: fixed; 
-    z-index: 1; 
     overflow-x: hidden; /* desabilita scroll*/
-    padding-top: 60px; 
-    transition: 0.5s; /*animação*/
-    display:block;
 } /*ao preencher o check box*/
 
+
+                   /*Conteudo do menu*/
+
+.menu ul ul {
+display: none;
+}
+.menu ul li:hover > ul {
+display: block;
+}
+.menu ul {
+list-style: none;
+position: relative;
+display: inline-table;
+}
+.menu ul:after {
+content: ""; clear: both; display: block;
+}
   .menu a {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
@@ -148,18 +159,11 @@ input:checked ~ .menu{
     transition: 0.5s;
   }
 
-  .menu li{
-      list-style: none;   
-      text-decoration: none;
-  }
-
   .menu a:hover {
     color: #f1f1f1;/*muda a cor quando colocar o mouse*/
   }
 
-  #dropmenu{
-    text-decoration: none;
-  }
+
 
   @media screen and (max-height: 450px) {
     .menu {padding-top: 15px;}
